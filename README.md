@@ -1,4 +1,4 @@
-olá, meu nome é Fernandados Santos de Zorzi 
+olá, meu nome é Fernanda dos Santos de Zorzi 
 sou aluna do Ensino médio do col. Est. Guilherme de Almeida.
 Minha escola está localizada em Sta. Izabel do Oeste e pertence ao núcleo regional de Fco. Beltrão.
 Participo da disciplina de Pens. Computacional, ou seja, iniciante na parte da programação.
